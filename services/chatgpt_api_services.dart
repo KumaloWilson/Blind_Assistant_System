@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 
-String chatgptApiKey = "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";
+String chatgptApiKey = "YOUR API KEY HERE";
 
 class ApiServices {
 
