@@ -15,7 +15,7 @@ BlindUserModel? blindUserModelCurrentInfo;
 List assistantUserList = []; // assistantKeyInfo List
 DirectionDetailsInfo? tripDirectionDetailsInfo;
 String? chosenAssistantId = "";
-String cloudMessagingServerToken = "key=AAAA8day938:APA91bEpUfvY5rZmrRTIjv5E-s_b9C5JCQxetG9SQJ_O9Fm8yYFGGqHqCpmmgxUwmqIs7nG_goR8WTK9rUiY-lQDoRk6JlwqmKtrSOUaafBrVOeK2aaxXhGIw9iPIRR-xPuCMLLeYZtP";
+String cloudMessagingServerToken = "key=<YOUR API KEY HERE>";
 String blindUserDropOffAddress = "";
 String blindUserCurrentAddress = "";
 String assistantCarDetails = "";
